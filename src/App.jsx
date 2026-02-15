@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import MyInput from "./components/MyInput";
-import MyButton from "./components/myButton";
+import myButton from "./components/myButton";
 import './App.css'
 
 const App = () => {
