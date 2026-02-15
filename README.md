@@ -1,7 +1,7 @@
 # React + Vite
 #  React Rehber Uygulaması
 
-Bu proje, Software Persona firmasındaki stajın Web Geliştirme:JavaScript eğitim sonu için React.js kütüphanesi kullanılarak geliştirilmiş, temel **CRUD** (Ekleme, Okuma, Güncelleme, Silme) işlemlerini gerçekleştiren basit bir rehber uygulamasıdır.
+Bu proje, Software Persona firmasındaki Web Geliştirme:JavaScript stajı için React.js kütüphanesi kullanılarak geliştirilmiş, temel **CRUD** (Ekleme, Okuma, Güncelleme, Silme) işlemlerini gerçekleştiren basit bir rehber uygulamasıdır.
 
 # Özellikler
 * **Kişi Yönetimi:** Ad, soyad ve telefon bilgileriyle yeni kişiler eklenebilir.
